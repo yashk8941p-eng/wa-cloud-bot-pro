@@ -1,8 +1,0 @@
-services:
-  - type: web
-    name: wa-cloud-bot
-    env: node
-    buildCommand: npm install
-    startCommand: npm start
-    plan: free
-    
